@@ -1,12 +1,15 @@
 # 이력서
 
-![](fermat308/images/20210917_박지민.jpg)
-<멘트>
+![](https://user-images.githubusercontent.com/115774319/197904084-b97f5277-ae9f-48d8-a686-3e686b9f44c7.jpg)
 
+열정으로 움직이는 개발자 박지민입니다
+
+
+# 신상정보
 - 이름 : 박지민
 - 이메일 : fermat308@naver.com
 - Github : https://fermat308.github.io/
-- 취미 : 
+ 
 
 # 학력
 
@@ -16,4 +19,15 @@
 
 # 경력
 
-----
+
+
+
+
+-
+# 수상경력
+
+
+
+
+
+-
